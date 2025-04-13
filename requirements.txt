@@ -12,3 +12,5 @@ plotly
 nbformat
 scikit-learn
 prophet
+lightgbm
+xgboost
